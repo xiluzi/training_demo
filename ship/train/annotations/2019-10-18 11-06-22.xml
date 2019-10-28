@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2019-10-18 11-06-22.jpg</filename>
+	<path>E:\radarPy\python3x\ship_training\ship\train\images\2019-10-18 11-06-22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1538</xmin>
+			<ymin>261</ymin>
+			<xmax>1920</xmax>
+			<ymax>844</ymax>
+		</bndbox>
+	</object>
+</annotation>
